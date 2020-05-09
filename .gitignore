@@ -1,0 +1,4 @@
+*.mp4
+**/driving_clip_frames/
+**/models/
+**/bin/
